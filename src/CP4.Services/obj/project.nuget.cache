@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ztHImU+bfno=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\milka\\CP4\\src\\CP4.Services\\CP4.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\milka\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
